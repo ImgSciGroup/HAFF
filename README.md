@@ -4,6 +4,7 @@ Deep learning techniques have become popular in land cover change detection (LCC
 HAFF aims to learn and predict change maps in bi-temporal remote sensing images.
 # Requirements
 Python 3.6
+
 Pytorch 1.2.0
 # Q & A
 For any questions, please contact  liu-jie00002023@outlook.com，Lvzhiyong_fly@hotmail.com.
